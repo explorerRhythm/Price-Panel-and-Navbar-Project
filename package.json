@@ -1,0 +1,20 @@
+{
+  "name": "navbar-and-price-panel",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/explorerRhythm/Price-Panel-and-Navbar-Project#readme",
+  "bugs": {
+    "url": "https://github.com/explorerRhythm/Price-Panel-and-Navbar-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/explorerRhythm/Price-Panel-and-Navbar-Project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
